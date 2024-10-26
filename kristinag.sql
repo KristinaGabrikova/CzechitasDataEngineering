@@ -3,5 +3,6 @@ select
     surname,
     person_id,
     age,
-    country_id
+    country_id,
+    testo
 from customer
